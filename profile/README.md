@@ -26,7 +26,7 @@
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://www.magiclab.top/human" target="_blank"> Magicbot-Gen1 </a>
         </td>
-        <td><a href="https://github.com/MagiclabRobotics/magicbot-gen1_descriptions" target="_blank"> magicbot-gen1_description </a> <br> Robot 3D model for Magicbot-Gen1(URDF & MJCF). </td>
+        <td><a href="https://github.com/MagiclabRobotics/magicbot-gen1_description" target="_blank"> magicbot-gen1_description </a> <br> Robot 3D model for Magicbot-Gen1(URDF & MJCF). </td>
     </tr>
     <tr>
         <td><a href="https://github.com/MagiclabRobotics/magicbot-gen1_sdk" target="_blank"> magicbot-gen1_sdk </a> <br> SDK for secondary development with Magicbot-Gen1. </td>
