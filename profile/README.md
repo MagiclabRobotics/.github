@@ -4,7 +4,7 @@
 
 <br clear="left"/>
 
-<a href="https://www.magiclab.top/"> Magiclab Robotics </a> is a technology-driven company dedicated to the development, production, and commercialization of high-performance quadruped and humanoid robots for both consumer and industrial applications. With strong emphasis on independent innovation, we strive to push the boundaries of robotics by advancing key technologies such as structural design, motion control, and intelligent perception.
+<a href="https://www.magiclab.top/"> Magiclab Robotics </a> is dedicated to the development, production, and commercialization of high-performance quadruped and humanoid robots for both consumer and industrial applications. With strong emphasis on independent innovation, we strive to push the boundaries of robotics by advancing key technologies such as structural design, motion control, and intelligent perception.
 
 <table><tbody>
 <table class="table table-striped table-bordered table-vcenter"/>
