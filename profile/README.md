@@ -7,7 +7,7 @@
 <a href="https://www.magiclab.top/"> Magiclab Robotics </a> is dedicated to the development, production, and commercialization of high-performance quadruped and humanoid robots for both consumer and industrial applications. With strong emphasis on independent innovation, we strive to push the boundaries of robotics by advancing key technologies such as structural design, motion control, and intelligent perception.
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/MagicLab_Robot)
-[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCsMbp4V8oxzHCMdOUP-3oWw/featured](https://www.youtube.com/@MagicLab_Robot))
+[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MagicLab_Robot)
 [![Bilibili](https://img.shields.io/badge/-bilibili-ff69b4?style=flat&labelColor=ff69b4&logo=bilibili&logoColor=white)](https://space.bilibili.com/3493132123507310) 
 [![Douyin](https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-000000?style=flat&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAAm5awzW_rejZeCPrvLu9z2lcDt1jRJgzh_YamyaUSFko)
 [![Xiaohongshu](https://img.shields.io/badge/小红书-dc143c?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...&logoColor=white)](https://www.xiaohongshu.com/user/profile/657279610000000019011aa2)
