@@ -6,6 +6,11 @@
 
 <a href="https://www.magiclab.top/"> Magiclab Robotics </a> is dedicated to the development, production, and commercialization of high-performance quadruped and humanoid robots for both consumer and industrial applications. With strong emphasis on independent innovation, we strive to push the boundaries of robotics by advancing key technologies such as structural design, motion control, and intelligent perception.
 
+[![Bilibili](https://img.shields.io/badge/-bilibili-ff69b4?style=flat&labelColor=ff69b4&logo=bilibili&logoColor=white)](https://space.bilibili.com/3493132123507310) 
+[![Douyin](https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-000000?style=flat&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAAm5awzW_rejZeCPrvLu9z2lcDt1jRJgzh_YamyaUSFko)
+[![Doc](https://img.shields.io/badge/Doc-FFA500?style=flat&logo=rss&logoColor=white)](https://www.magiclab.top/opensource)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@magiclab.top)
+
 <table><tbody>
 <table class="table table-striped table-bordered table-vcenter"/>
     <tbody>
