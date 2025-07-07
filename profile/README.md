@@ -37,12 +37,17 @@
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog_motion_sdk?style=flat-square"/></td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://www.magiclab.top/human" target="_blank"> Magicbot-Gen1 </a>
         </td>
         <td><a href="https://github.com/MagiclabRobotics/magicbot-gen1_description" target="_blank"> magicbot-gen1_description </a> <br> Robot 3D model for Magicbot-Gen1(URDF & MJCF). </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicbot-gen1_description?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicbot-gen1_description?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MagiclabRobotics/magicbot-gen1_moveit_config" target="_blank"> magicbot-gen1_moveit_config </a> <br> MoveIt2 configuration and interface for Magicbot-Gen1. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicbot-gen1_moveit_config?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicbot-gen1_moveit_config?style=flat-square"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/MagiclabRobotics/magicbot-gen1_sdk" target="_blank"> magicbot-gen1_sdk </a> <br> SDK for secondary development with Magicbot-Gen1. </td>
