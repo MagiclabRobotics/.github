@@ -44,12 +44,12 @@
         <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicdog_ros2_sdk?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog_ros2_sdk?style=flat-square"/></td>
     </tr>
-        <tr>
+    <tr>
         <td><a href="https://github.com/MagiclabRobotics/magicdog_motion_sdk" target="_blank"> magicdog_motion_sdk </a> <br> Pure motion sdk for secondary development with MagicDog, providing both low level and high level controllers. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicdog_motion_sdk?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog_motion_sdk?style=flat-square"/></td>
     </tr>
-<tr>
+    <tr>
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             manipulation
         </td>
@@ -57,6 +57,11 @@
         <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/pico_teleoperate?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/pico_teleoperate?style=flat-square"/></td>
     </tr>
+<!--     <tr>
+        <td><a href="https://github.com/MagiclabRobotics/magicbot-gen1_pi0_demo" target="_blank"> magicbot-gen1_pi0_demo </a> <br> Implementation of pi0 open-sourse VLA model for Magicbot-Gen1. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicbot-gen1_pi0_demo?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicbot-gen1_pi0_demo?style=flat-square"/></td>
+    </tr> -->
     <tr>
         <td><a href="https://github.com/MagiclabRobotics/magicbot-gen1_moveit_config" target="_blank"> magicbot-gen1_moveit_config </a> <br> MoveIt2 configuration and interface for Magicbot-Gen1. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicbot-gen1_moveit_config?style=flat-square"/></td>
