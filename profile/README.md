@@ -27,7 +27,7 @@
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicbot-gen1_description?style=flat-square"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/MagiclabRobotics/magicbot-z1_description" target="_blank"> magicbot-z1_description </a> <br> Robot 3D model for Magicbot-Z1(URDF). </td>
+        <td><a href="https://github.com/MagiclabRobotics/magicbot-z1_description" target="_blank"> magicbot-z1_description </a> <br> Robot 3D model for Magicbot-Z1(URDF & MJCF). </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicbot-z1_description?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicbot-z1_description?style=flat-square"/></td>
     </tr>
@@ -37,7 +37,7 @@
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog_description?style=flat-square"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/MagiclabRobotics/magicdog-w_description" target="_blank"> magicdog-w_description </a> <br> Robot 3D model for MagicDog-W(URDF). </td>
+        <td><a href="https://github.com/MagiclabRobotics/magicdog-w_description" target="_blank"> magicdog-w_description </a> <br> Robot 3D model for MagicDog-W(URDF & MJCF). </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicdog-w_description?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog-w_description?style=flat-square"/></td>
     </tr>
