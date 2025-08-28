@@ -19,7 +19,7 @@
     <tbody>
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
     <tr>
-        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
             magiclab_model
         </td>
         <td><a href="https://github.com/MagiclabRobotics/magicbot-gen1_description" target="_blank"> magicbot-gen1_description </a> <br> Robot 3D model for Magicbot-Gen1(URDF & MJCF). </td>
@@ -27,9 +27,19 @@
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicbot-gen1_description?style=flat-square"/></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/MagiclabRobotics/magicbot-z1_description" target="_blank"> magicbot-z1_description </a> <br> Robot 3D model for Magicbot-Z1(URDF). </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicbot-z1_description?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicbot-z1_description?style=flat-square"/></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/MagiclabRobotics/magicdog_description" target="_blank"> magicdog_description </a> <br> Robot 3D model for MagicDog(URDF). </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicdog_description?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog_description?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MagiclabRobotics/magicdog-w_description" target="_blank"> magicdog-w_description </a> <br> Robot 3D model for MagicDog-W(URDF). </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicdog-w_description?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog-w_description?style=flat-square"/></td>
     </tr>
     <tr>
         <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
