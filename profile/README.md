@@ -42,12 +42,22 @@
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog-w_description?style=flat-square"/></td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="5" align="center" class="ai-notebooks-table-points ai-orange-link">
         robot_sdk
         </td>
         <td><a href="https://github.com/MagiclabRobotics/magicbot-gen1_sdk" target="_blank"> magicbot-gen1_sdk </a> <br> SDK for secondary development with Magicbot-Gen1. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicbot-gen1_sdk?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicbot-gen1_sdk?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MagiclabRobotics/magicbot-z1_sdk" target="_blank"> magicbot-z1_sdk </a> <br> SDK for secondary development with Magicbot-Z1. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicbot-z1_sdk?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicbot-z1_sdk?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MagiclabRobotics/magicdog_sdk" target="_blank"> magicdog_sdk </a> <br> SDK for secondary development with Magicdog. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicdog_sdk?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog_sdk?style=flat-square"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/MagiclabRobotics/magicdog_ros2_sdk" target="_blank"> magicdog_ros2_sdk </a> <br> ROS2 sdk for secondary development with MagicDog, providing interfaces of several devices with ros2 topic and service. Slam and navigation are also integrated.</td>
