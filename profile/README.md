@@ -42,7 +42,7 @@
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog-w_description?style=flat-square"/></td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="5" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="6" align="center" class="ai-notebooks-table-points ai-orange-link">
         robot_sdk
         </td>
         <td><a href="https://github.com/MagiclabRobotics/magicbot-gen1_sdk" target="_blank"> magicbot-gen1_sdk </a> <br> SDK for secondary development with Magicbot-Gen1. </td>
@@ -68,6 +68,11 @@
         <td><a href="https://github.com/MagiclabRobotics/magicdog_motion_sdk" target="_blank"> magicdog_motion_sdk </a> <br> Pure motion sdk for secondary development with MagicDog, providing both low level and high level controllers. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicdog_motion_sdk?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog_motion_sdk?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MagiclabRobotics/magicdog-w_sdk" target="_blank"> magicdog-w_sdk </a> <br> SDK for secondary development with Magicdog-W. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magicdog-w_sdk?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog-w_sdk?style=flat-square"/></td>
     </tr>
     <tr>
         <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
