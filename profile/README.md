@@ -75,6 +75,24 @@
         <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magicdog-w_sdk?style=flat-square"/></td>
     </tr>
     <tr>
+        <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
+            locomotion
+        </td>
+        <td><a href="https://github.com/MagiclabRobotics/magiclab_rl_lab" target="_blank"> magiclab_rl_lab </a> <br> Implementation of reinforce learning for locomotion of magiclab robots.  </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magiclab_rl_lab?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magiclab_rl_lab?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MagiclabRobotics/magiclab_mujoco" target="_blank"> magiclab_mujoco </a> <br> Simulation environment for magiclab robots. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magiclab_mujoco?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magiclab_mujoco?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MagiclabRobotics/magiclab_deploy" target="_blank"> magiclab_deploy </a> <br> Deploy RL policy using SDK. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MagiclabRobotics/magiclab_deploy?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MagiclabRobotics/magiclab_deploy?style=flat-square"/></td>
+    </tr>
+    <tr>
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             manipulation
         </td>
